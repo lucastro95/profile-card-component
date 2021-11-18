@@ -112,7 +112,7 @@ p {
 @media only screen and (max-width:1440px) {
 body{
     height: 100vh;
-    background: url(../images/bg-pattern-bottom.svg) bottom -600px right -400px, url(../images/bg-pattern-top.svg) top -500px left -400px;
+    background: url(../images/bg-pattern-bottom.svg) bottom -600px right -300px, url(../images/bg-pattern-top.svg) top -500px left -400px;
     background-color: var(--dark-cyan);
     background-repeat: no-repeat;
 
@@ -132,7 +132,7 @@ body{
 @media only screen and (max-width:375px) {
     body {
         height: 100vh;
-        background: url(./images/bg-pattern-bottom.svg) 150px  350px, url(./images/bg-pattern-top.svg)  -750px -550px;
+        background: url(./images/bg-pattern-bottom.svg) 80px  250px, url(./images/bg-pattern-top.svg)  -750px -550px;
         background-color: var(--dark-cyan);
         background-repeat: no-repeat;
     }
